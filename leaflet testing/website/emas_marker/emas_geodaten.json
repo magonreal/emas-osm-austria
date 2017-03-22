@@ -1,0 +1,6256 @@
+var emas =
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.165145700,47.110777800 ]
+    },
+    "properties": {
+    "Titel":"Brauerei Murau eGen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.486438500,46.912100300 ]
+    },
+    "properties": {
+    "Titel":"VERBUND Thermal Power GmbH & Co KG in Liqu. - Fernheizkraftwerk Mellach  Standort: Fernheizkraftwerk Mellach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.672695200,48.004339600 ]
+    },
+    "properties": {
+    "Titel":"Vishay Semiconductor (Austria) GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.219265400,47.267151300 ]
+    },
+    "properties": {
+    "Titel":"Freudenthaler GmbH & Co. KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.708090800,48.394733400 ]
+    },
+    "properties": {
+    "Titel":"EVN AG, Kraftwerk Theiß"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.334531300,47.135217300 ]
+    },
+    "properties": {
+    "Titel":"Sappi Austria Produktions-GmbH & Co.KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.626083100,48.232483300 ]
+    },
+    "properties": {
+    "Titel":"TEAM 7 Natürlich Wohnen GmbH Standort: Massivholzplatten, Tisch- und Bettenmanufaktur Pram"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.714262700,47.367534800 ]
+    },
+    "properties": {
+    "Titel":"Adolf Darbo AG Standort: Adolf Darbo AG / Werk am Rain 273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.689037700,47.344566500 ]
+    },
+    "properties": {
+    "Titel":"Adolf Darbo AG Standort: Adolf Darbo AG, Werk Darbo/Nordpol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.244442400,48.831625800 ]
+    },
+    "properties": {
+    "Titel":"Tyco Electronics Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.683562700,47.369070300 ]
+    },
+    "properties": {
+    "Titel":"Collini GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.492321800,47.273387800 ]
+    },
+    "properties": {
+    "Titel":"Ragg GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.323602200,48.299018400 ]
+    },
+    "properties": {
+    "Titel":"Linz Strom GmbH für Energieerzeugung-, -handel, -dienstleistungen und Telekommunikation Standort: Fernheizkraftwerk Linz Mitte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.346709900,48.267880900 ]
+    },
+    "properties": {
+    "Titel":"Linz Strom GmbH für Energieerzeugung-, -handel, -dienstleistungen und Telekommunikation Standort: Fernheizkraftwerk Linz Süd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.316103200,48.333958100 ]
+    },
+    "properties": {
+    "Titel":"Linz Strom GmbH für Energieerzeugung-, -handel, -dienstleistungen und Telekommunikation Standort: Fernheizwerk Dornach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.919830300,48.326940300 ]
+    },
+    "properties": {
+    "Titel":"EVN AG - Kraftwerk Dürnrohr "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426690400,48.038914200 ]
+    },
+    "properties": {
+    "Titel":"MAN Truck & Bus Österreich AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.466828900,48.257202000 ]
+    },
+    "properties": {
+    "Titel":"ZENTRAPLAST Kunststoffrecycling GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.325763000,47.280412700 ]
+    },
+    "properties": {
+    "Titel":"Mayr-Melnhof Karton GmbH "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.971764700,47.894820900 ]
+    },
+    "properties": {
+    "Titel":"SCA Hygiene Products GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.996206200,48.094048100 ]
+    },
+    "properties": {
+    "Titel":"CCHBC Austria GmbH (Coca-Cola BC) Standort: CCHBC Austria Edelstahl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.748460200,47.185505500 ]
+    },
+    "properties": {
+    "Titel":"voestalpine VAE GmbH, voestalpine Weichensysteme GmbH, voestalpine SIGNALING Zeltweg GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.969900100,48.637395800 ]
+    },
+    "properties": {
+    "Titel":"Stiftsbrauerei Schlägl e.U. Standort: Stiftsbrauerei Schlägl e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.289381400,48.033254700 ]
+    },
+    "properties": {
+    "Titel":"Messer Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.249233800,48.130690900 ]
+    },
+    "properties": {
+    "Titel":"ÖKOTECHNA - Entsorgungs- und Umwelttechnik GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.295283100,48.039562600 ]
+    },
+    "properties": {
+    "Titel":"Rich. KLINGER Dichtungstechnik GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.818037500,47.925018800 ]
+    },
+    "properties": {
+    "Titel":"Laufen Austria AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.599869300,48.102671100 ]
+    },
+    "properties": {
+    "Titel":"LAUFEN Austria AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.481313700,46.919587100 ]
+    },
+    "properties": {
+    "Titel":"Allnex Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.922895300,47.989839900 ]
+    },
+    "properties": {
+    "Titel":"Brauerei Schloss Eggenberg, Stöhr GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.855469100,46.596154600 ]
+    },
+    "properties": {
+    "Titel":"Infineon Technologies Austria AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.725046800,47.359534500 ]
+    },
+    "properties": {
+    "Titel":"Adler-Werk Lackfabrik, Johann Berghofer GmbH & CO KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.844200300,48.027974600 ]
+    },
+    "properties": {
+    "Titel":"ENERGIE AG Oberösterreich Kraftwerke GmbH Standort: Kraftwerk Riedersbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.511295800,47.760707500 ]
+    },
+    "properties": {
+    "Titel":"Hackl Container Standort: Zagersdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.122815100,47.609023600 ]
+    },
+    "properties": {
+    "Titel":"Profümed GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.117150300,47.553731900 ]
+    },
+    "properties": {
+    "Titel":"Sandoz GmbH Standort: Werk Schaftenau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.835977000,46.619387500 ]
+    },
+    "properties": {
+    "Titel":"Lam Research AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.233630000,48.416890000 ]
+    },
+    "properties": {
+    "Titel":"Zellinger GmbH  Standort: Abfallwirtschaftszentrum Herzogsdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.723385000,47.360173000 ]
+    },
+    "properties": {
+    "Titel":"DAKA Entsorgungsunternehmen GmbH & Co.KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.474169900,47.019420800 ]
+    },
+    "properties": {
+    "Titel":"MAGNA STEYR AG & CO KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.586792000,48.014233600 ]
+    },
+    "properties": {
+    "Titel":"ENERGIE AG Oberösterreich Kraftwerke GmbH Standort: Kraftwerk Timelkam"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.294187400,48.096531900 ]
+    },
+    "properties": {
+    "Titel":"B. Braun Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.400432100,48.269581500 ]
+    },
+    "properties": {
+    "Titel":"Rembrandtin Lack GmbH Nfg. KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.059735600,47.379790500 ]
+    },
+    "properties": {
+    "Titel":"voestalpine Schienen GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.323669100,48.287186200 ]
+    },
+    "properties": {
+    "Titel":"DPx Fine Chemicals GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.328734600,48.052319000 ]
+    },
+    "properties": {
+    "Titel":"Axalta Coating Systems Austria GmbH Standort:  Axalta Coating Systems Austria GmbH Point of Distribution (POD)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.928195100,47.985055700 ]
+    },
+    "properties": {
+    "Titel":"Salzburger Metall- & Kabelverwertungs-Ges.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.423029400,47.496814100 ]
+    },
+    "properties": {
+    "Titel":"voestalpine Tubulars GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.086103200,47.535144100 ]
+    },
+    "properties": {
+    "Titel":"Aspanger Bergbau und Mineralwerke GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.130337900,47.805943800 ]
+    },
+    "properties": {
+    "Titel":"voestalpine Stahl GmbH, voestalpine Grobblech GmbH, die voestalpine Giesserei Linz GmbH, die Logistik Service GmbH, voestalpine Europlatinen GmbH, Cargo Service GmbH, voestalpine Standortservice GmbH, voestalpine Anarbeitung GmbH Standort: Steyrling"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.356132000,48.217514100 ]
+    },
+    "properties": {
+    "Titel":"Oesterreichische Banknoten- und Sicherheitsdruck GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.059735600,47.379790500 ]
+    },
+    "properties": {
+    "Titel":"voestalpine Stahl Donawitz GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.817486400,47.702863900 ]
+    },
+    "properties": {
+    "Titel":"Mayr-Melnhof Karton GmbH - Werk Hirschwang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.414120700,48.263733600 ]
+    },
+    "properties": {
+    "Titel":"Bunzl & Biach GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.357387600,48.177959600 ]
+    },
+    "properties": {
+    "Titel":"Bunzl & Biach GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.329643300,48.306799500 ]
+    },
+    "properties": {
+    "Titel":"Bunzl & Biach GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.161541600,48.097226100 ]
+    },
+    "properties": {
+    "Titel":"Mahle Filtersysteme Austria GmbH Standort: Werk Mattighofen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.837571900,46.829772000 ]
+    },
+    "properties": {
+    "Titel":"Mahle Filtersysteme Austria GmbH Standort: Werk Wolfsberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.323669100,48.287186200 ]
+    },
+    "properties": {
+    "Titel":"Bernegger GmbH Standort: Standort Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.237747400,48.927846400 ]
+    },
+    "properties": {
+    "Titel":"HERKA GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.992221300,47.809165300 ]
+    },
+    "properties": {
+    "Titel":"A. Haas Schrott & Metalle GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.302363600,48.110712500 ]
+    },
+    "properties": {
+    "Titel":"Flowserve (Austria) GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.040947000,47.713978600 ]
+    },
+    "properties": {
+    "Titel":"Amada Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.376816000,48.232194700 ]
+    },
+    "properties": {
+    "Titel":"R&K GmbH Standort: Standort Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.458769200,47.912196100 ]
+    },
+    "properties": {
+    "Titel":"Schraufstädter GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.344628200,47.214897000 ]
+    },
+    "properties": {
+    "Titel":"w&p Kalk GmbH Standort: w&p Kalk GmbH, Kalk Werk Peggau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.606045800,48.181420200 ]
+    },
+    "properties": {
+    "Titel":"Franz Hödl Gesellschaft m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.361633900,48.217159000 ]
+    },
+    "properties": {
+    "Titel":"Kommunalkredit Austria AG und Kommunalkredit Public Consulting GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.049547200,48.331865700 ]
+    },
+    "properties": {
+    "Titel":"Gemeindeverband für Abfallbeseitigung in der Region Tulln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.463089400,46.931522800 ]
+    },
+    "properties": {
+    "Titel":"Jöbstl Holding GmbH Standort: Wundschuh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.921180000,48.222738400 ]
+    },
+    "properties": {
+    "Titel":"Abwasserverband Anzbach Laabental"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.451443500,47.273230700 ]
+    },
+    "properties": {
+    "Titel":"Dental ECO Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.350984400,47.257530100 ]
+    },
+    "properties": {
+    "Titel":"Tiroler Flughafenbetriebsgesellschaft mbH."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.105789100,47.532650100 ]
+    },
+    "properties": {
+    "Titel":"Kanal- und Grubendienst Bretterebner GesmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.384446100,48.207997500 ]
+    },
+    "properties": {
+    "Titel":"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft / Zentralstelle Standort: Marxergasse 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.386392500,48.210985500 ]
+    },
+    "properties": {
+    "Titel":"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft / Zentralstelle Standort: Radetzkystraße 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.378377500,48.206694500 ]
+    },
+    "properties": {
+    "Titel":"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft / Zentralstelle Standort: Stubenbastei 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.381918700,48.209261600 ]
+    },
+    "properties": {
+    "Titel":"Bundesministerium für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft / Zentralstelle Standort: Stubenring 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.361732500,48.201595300 ]
+    },
+    "properties": {
+    "Titel":"Bundesgymnasium und Bundesrealgymnasium Wien 6 Rahlgasse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.345878200,47.125274100 ]
+    },
+    "properties": {
+    "Titel":"Colas GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.453496200,48.233383200 ]
+    },
+    "properties": {
+    "Titel":"Business Academy Donaustadt, Bundeshandelsakademie und Bundeshandelsschule"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.693517600,46.554584700 ]
+    },
+    "properties": {
+    "Titel":"BMG Metall und Recycling GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.675696800,47.425330200 ]
+    },
+    "properties": {
+    "Titel":"W. Hämmerle Destillerie Freihof GmbH & CoKG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.374790400,48.216102700 ]
+    },
+    "properties": {
+    "Titel":"Austria Glas Recycling GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.283400000,47.250250000 ]
+    },
+    "properties": {
+    "Titel":"Abwasserverband Zirl und Umgebung, Körperschaft öffentlichen Rechts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.742907800,47.496594400 ]
+    },
+    "properties": {
+    "Titel":"OeKB - Oesterreichische Kontrollbank AG Standort: Standort Bregenz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.423931800,48.218686200 ]
+    },
+    "properties": {
+    "Titel":"OeKB - Oesterreichische Kontrollbank AG Standort: Standort Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.365941000,48.210618500 ]
+    },
+    "properties": {
+    "Titel":"OeKB - Oesterreichische Kontrollbank AG Standort: Standort Strauchgasse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.366375500,48.214916400 ]
+    },
+    "properties": {
+    "Titel":"OeKB - Oesterreichische Kontrollbank AG Standort: Standort Wipplingerstraße"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.466320500,48.175043500 ]
+    },
+    "properties": {
+    "Titel":"ebswien tierservice Ges.m.b.H. Nfg KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.537748700,46.779843900 ]
+    },
+    "properties": {
+    "Titel":"Abfallwirtschaftsverband Leibnitz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.043500000,47.390790800 ]
+    },
+    "properties": {
+    "Titel":"voestalpine Wire Austria GmbH & voestalpine Wire Rod Austria GmbH Standort: voestalpine Wire Rod Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.216608600,48.063214300 ]
+    },
+    "properties": {
+    "Titel":"Baukontor Gaaden GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.529577200,47.487519100 ]
+    },
+    "properties": {
+    "Titel":"Burgenländischer Müllverband"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.444140600,47.004894600 ]
+    },
+    "properties": {
+    "Titel":"Saubermacher Outsourcing GmbH Standort: ECOPORT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.294168300,48.114246400 ]
+    },
+    "properties": {
+    "Titel":"Saubermacher Outsourcing GmbH Standort: Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.758273700,48.209523600 ]
+    },
+    "properties": {
+    "Titel":"BAUMANN/GLAS/1886 GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.124327400,47.943693100 ]
+    },
+    "properties": {
+    "Titel":"Berndorf Band GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.110677600,47.674991400 ]
+    },
+    "properties": {
+    "Titel":"Schweighofer Fiber GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.208844600,47.933303200 ]
+    },
+    "properties": {
+    "Titel":"Killer GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.704698800,47.355229700 ]
+    },
+    "properties": {
+    "Titel":"HAVI Logistics G.m.b.H. Standort: DC-Vomp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.401283800,48.267748300 ]
+    },
+    "properties": {
+    "Titel":"IGK Gerhard Hainzl Gesellschaft m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.338173800,48.193827800 ]
+    },
+    "properties": {
+    "Titel":"Max Wagenhofer Reinigungsdienst GesmbH, Josef & Theresia Kling GmbH & Co KG "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.051603200,48.160690500 ]
+    },
+    "properties": {
+    "Titel":"Walter Kunststoffe GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.666712900,46.683537000 ]
+    },
+    "properties": {
+    "Titel":"Sky Plastic Recycling and Commerce GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.997407400,47.793672800 ]
+    },
+    "properties": {
+    "Titel":"Salzburger Flughafen GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.515783000,46.788276700 ]
+    },
+    "properties": {
+    "Titel":"Kärntnermilch reg. Gen.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.984659300,47.279885700 ]
+    },
+    "properties": {
+    "Titel":"WSA - Waste Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.666774800,48.003317000 ]
+    },
+    "properties": {
+    "Titel":"MAHLE Vöcklabruck GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.094043200,46.724531900 ]
+    },
+    "properties": {
+    "Titel":"Kanzian Engineering und Consulting GmbH Standort: Büro Feldkirchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.292619200,48.196255400 ]
+    },
+    "properties": {
+    "Titel":"D.R.Z Demontage- und Recycling-Zentrum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373004900,48.297934200 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Langenzersdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.806086800,46.822821000 ]
+    },
+    "properties": {
+    "Titel":"Rossbacher GmbH Standort: Abfallwirtschaftszentrum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.766318600,46.822388600 ]
+    },
+    "properties": {
+    "Titel":"Rossbacher GmbH Standort: Tanklager, Tankstelle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.364222600,48.229988600 ]
+    },
+    "properties": {
+    "Titel":"Umweltbundesamt GmbH Standort: Umweltbundesamt GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363342300,48.227401800 ]
+    },
+    "properties": {
+    "Titel":"Umweltbundesamt GmbH Standort: Umweltbundesamt GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363727200,48.226752600 ]
+    },
+    "properties": {
+    "Titel":"Umweltbundesamt GmbH Standort: Umweltbundesamt GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.384446100,48.207997500 ]
+    },
+    "properties": {
+    "Titel":"ICC-Internationale Gesellschaft für Getreidewissenschaft und -technologie"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.932325700,48.016870900 ]
+    },
+    "properties": {
+    "Titel":"Stadtgemeinde Mödling Standort: Abwasserreinigungsanlage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.072693500,46.736015800 ]
+    },
+    "properties": {
+    "Titel":"EMBATEX Aktiengesellschaft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.328371800,48.299624900 ]
+    },
+    "properties": {
+    "Titel":"timo printware GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.299434800,48.204882500 ]
+    },
+    "properties": {
+    "Titel":"SWR Serviceeinheit Wäsche und Reinigung, Großwäscherei und Wäscheversorgung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.094238800,47.686944100 ]
+    },
+    "properties": {
+    "Titel":"ERDAL GesmbH & CoKG, Erdal GmbH, Werner & Mertz Professional Vertriebs GmbH "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.461278500,48.173519300 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Abfall- und Klärschlammverbrennungsanlage Simmeringer Haide"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.289892500,48.206824000 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Abfallverbrennungsanlage Flötzersteig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.463928600,48.176121000 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Betriebsführung der Pfaffenau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.453650300,48.235120500 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Fernheizwerk  Kagran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.397475200,48.181813500 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Fernheizwerk Arsenal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.368068600,48.142563000 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Fernheizwerk Inzersdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.434229500,48.276599600 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Fernheizwerk Leopoldau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.360045000,48.233423400 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Fernheizwerk und AbfallverbrennungsanlageSpittelau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.459832900,48.199025800 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Kraftwerk Donaustadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.429219800,48.182495300 ]
+    },
+    "properties": {
+    "Titel":"Wien Energie GmbH Standort: Kraftwerk Simmering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.367582600,48.246961000 ]
+    },
+    "properties": {
+    "Titel":"Universität für Bodenkultur Wien Standort: Institutsgebäude Muthgasse"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.658012900,46.674733900 ]
+    },
+    "properties": {
+    "Titel":"Kruschitz GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.101313500,47.588453900 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Aspang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.459665200,48.251731400 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wien Donaustadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.909834200,47.659406000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Gloggnitz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.641844600,48.664445100 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Horn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.586884900,48.403408800 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Krems "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.333611500,48.302315800 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Klosterneuburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.312452600,48.202321200 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wien Schanzstraße"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.486616300,48.147469000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt und Hauswerkstätte Schwechat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.190227000,47.780538600 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wiener Neustadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.450157400,48.250027700 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Wien, Niederösterreich, Burgenland (Landescluborganisation)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.456092600,48.233043300 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: 48er Basar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.464881000,48.262196800 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Abfallbehandlungsanlage / Rinterzelt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.463928600,48.176121000 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Abfalllogistikzentrum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.453530700,48.171935700 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Abschleppgruppe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.456092600,48.233043300 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Baureferat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.383393518,48.233356480 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Behälterlogistikzentrum und Lager- und Umschlagplätze für Behälter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.463928600,48.176121000 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Biogasanlage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.480865500,48.258312800 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Deponie Rautenweg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.350134250,48.200185000 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Garagen und Dependancen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.494923000,48.178562300 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Kompostwerk Lobau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.316596200,48.124266100 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Lagerplatz Vösendorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.370271300,48.257934500 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Lehrwerkstätte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.538305500,48.233272800 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Mulden- und Containerreparaturwerkstätte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.356508400,48.210943700 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: PKW Service Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.323628700,48.225480600 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Technik Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.353251800,48.180607000 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Zentrale der MA 48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.353251800,48.180607000 ]
+    },
+    "properties": {
+    "Titel":"Magistratsabteilung 48 der Stadt Wien Standort: Zentrales Fundservice"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.080515000,47.793694900 ]
+    },
+    "properties": {
+    "Titel":"St. Virgil Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.233682900,48.274696900 ]
+    },
+    "properties": {
+    "Titel":"Schneider Electric Energy Austria AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.728182200,47.290354300 ]
+    },
+    "properties": {
+    "Titel":"Senoplast Klepsch & Co GmbH, Senco R&D GmbH & Co KG, Senco (Europe) GmbH, Senosan GmbH Standort: Senco R&D GmbH&Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.071929000,47.306777100 ]
+    },
+    "properties": {
+    "Titel":"Marktgemeinde Telfs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.448926400,47.052971100 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.416888000,47.250259350 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Innsbruck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.283361110,46.616726800 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.300448900,48.246190600 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.068189400,47.782067600 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.626415100,48.204068300 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: St. Pölten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.364751800,48.242699800 ]
+    },
+    "properties": {
+    "Titel":"Sodexo Services Solutions Austria GmbH Standort: Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.815218200,47.153560000 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Bludenz SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.276435400,47.424439000 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Bruck a.d. Mur SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.414873200,47.073796700 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Graz SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.381503300,47.253898400 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Innsbruck SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.441114400,48.134868400 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Kledering SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.831727400,47.211172200 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Knittelfeld Werk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.605440400,48.407934900 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Krems SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.318165100,48.276959600 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Linz GW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.286805900,48.283050700 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Linz PW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.292869900,48.288025500 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Linz Werk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.064045700,47.812355200 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Salzburg SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.612277700,48.192908300 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: St. Pölten Werk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.836774900,46.602552900 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Villach SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.047110800,48.177043300 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wels SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.408392800,48.266271100 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wien Floridsdorf SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.389984800,48.274064400 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wien Jedlersdorf Werk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.354983000,48.179449400 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wien Matzleinsdorf SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.408281200,48.168842400 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wien Simmering Werk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.326582300,48.192874800 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wien West SVS "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.234883000,47.809345800 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wiener Neustadt SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.060234000,47.493147100 ]
+    },
+    "properties": {
+    "Titel":"ÖBB - Technische Services GmbH Standort: Wörgl SVS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.462677700,48.173711700 ]
+    },
+    "properties": {
+    "Titel":"ebswien hauptkläranlage Ges.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.618278400,48.175212700 ]
+    },
+    "properties": {
+    "Titel":"Markas GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.410956000,48.270592000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wien Floridsdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.339944600,48.169584500 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wienerberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.375244000,48.164027600 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Wien Süd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.267953600,47.994845500 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.093367700,47.958305600 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Berndorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.522222222,47.831666667 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Eisenstadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.837348500,47.969278000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Neusiedl/See"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.409193200,47.734106700 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Mattersburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.406553900,48.253720400 ]
+    },
+    "properties": {
+    "Titel":"Sozialmedizinisches Zentrum Floridsdorf / Krankenhaus und Geriatriezentrum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.303568600,48.316387400 ]
+    },
+    "properties": {
+    "Titel":"Land Oberösterreich, Amt der OÖ. Landesregierung Standort: Land Oberösterreich, Amt der OÖ Landesregierung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.309540900,48.276454100 ]
+    },
+    "properties": {
+    "Titel":"Land Oberösterreich, Amt der OÖ. Landesregierung Standort: Land Oberösterreich, Amt der OÖ Landesregierung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.282279200,48.217924800 ]
+    },
+    "properties": {
+    "Titel":"Land Oberösterreich, Amt der OÖ. Landesregierung Standort: Land Oberösterreich, Amt der OÖ Landesregierung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.422238300,48.341196600 ]
+    },
+    "properties": {
+    "Titel":"Land Oberösterreich, Amt der OÖ. Landesregierung Standort: Land Oberösterreich, Amt der OÖ Landesregierung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.329044700,46.870107300 ]
+    },
+    "properties": {
+    "Titel":"VERBUND Hydro Power GmbH - Werksgruppe Malta/Reißeck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.450445100,48.108653000 ]
+    },
+    "properties": {
+    "Titel":"Adamek Facility Service GmbH Standort: Adamek Facility Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.894385400,48.115594700 ]
+    },
+    "properties": {
+    "Titel":"Adamek Facility Service GmbH Standort: Adamek Facility Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.356137200,48.190217800 ]
+    },
+    "properties": {
+    "Titel":"Adamek Facility Service GmbH Standort: Adamek Facility Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.387980000,48.231817900 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt  Wien 20 Pasettistraße"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.576079800,48.563834000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Mistelbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.710880500,48.334490100 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt  Gänserndorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.084174600,48.570177100 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Hollabrunn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.523089000,48.690070900 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Zwettl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.302443100,48.808931200 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Waidhofen an der Thaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.990728200,48.761345200 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Gmünd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.199321300,47.297000000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Oberwart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.512389300,47.499506700 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Oberpullendorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.322079300,47.068774400 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Güssing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.139423500,48.139827700 ]
+    },
+    "properties": {
+    "Titel":"FH Wiener Neustadt für Wirtschaft und Technik GmbH, Campus Wieselburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.633765300,48.201984200 ]
+    },
+    "properties": {
+    "Titel":"Amt der Niederösterreichischen Landesregierung - Abt. Gebäudeverwaltung LAD 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.070690900,47.775795000 ]
+    },
+    "properties": {
+    "Titel":"Gebäudeservice W. Fach GmbH Standort: Gebäudeservice W. Fach GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.426012100,47.079052600 ]
+    },
+    "properties": {
+    "Titel":"Gebäudeservice W. Fach GmbH Standort: Gebäudeservice W. Fach GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.313754700,48.254614700 ]
+    },
+    "properties": {
+    "Titel":"Gebäudeservice W. Fach GmbH Standort: Gebäudeservice W. Fach GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373818900,48.208174300 ]
+    },
+    "properties": {
+    "Titel":"Gebäudeservice W. Fach GmbH Standort: Gebäudeservice W. Fach GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.649261700,47.562234200 ]
+    },
+    "properties": {
+    "Titel":"O.Ö. Landes-Abfallverwertungsunternehmen AG (LAVU) Standort: Altstoffsammelzentrum Hallstatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.685802700,47.556135900 ]
+    },
+    "properties": {
+    "Titel":"O.Ö. Landes-Abfallverwertungsunternehmen AG (LAVU) Standort: Altstoffsammelzentrum Obertraun"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.484380000,47.730060000 ]
+    },
+    "properties": {
+    "Titel":"O.Ö. Landes-Abfallverwertungsunternehmen AG (LAVU) Standort: Altstoffsammelzentrum St. Wolfgang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.934661400,46.893620800 ]
+    },
+    "properties": {
+    "Titel":"Franz Dorner & Partner KG "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.073668600,48.190953300 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Außenstelle Persenbeug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.855841000,48.372044600 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Altenwörth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.020497000,48.384203100 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Aschach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.481606700,48.176625800 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Freudenau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.349960000,48.226470000 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Melk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.369922200,48.259143700 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Nußdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.072361600,48.192249500 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Persenbeug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.709001200,48.181624700 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Schleuse Wallsee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.904093400,48.141040400 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Servicecenter Carnuntum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.834873500,48.374670500 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Servicecenter March-Thaya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.028010500,48.373898900 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Servicecenter Oberes Donautal "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.610581600,48.404654300 ]
+    },
+    "properties": {
+    "Titel":"via donau - Österreichische Wasserstraßen-Gesellschaft mbH Standort: Servicecenter Wachau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.858499100,46.615409700 ]
+    },
+    "properties": {
+    "Titel":"Landeskrankenanstalten-Betriebsgesellschaft KABEG - Landeskrankenhaus Villach Standort: Landeskrankenhaus Villach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.433398000,48.216760000 ]
+    },
+    "properties": {
+    "Titel":"htl donaustadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.225139100,47.975502700 ]
+    },
+    "properties": {
+    "Titel":"Grasl FairPrint (Grasl Druck & Neue Medien GmbH)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.400103400,47.025168600 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.317075400,46.632646300 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.047543100,47.808696100 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.415135800,48.185870000 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.387607100,47.259071400 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.620552900,48.204137900 ]
+    },
+    "properties": {
+    "Titel":"P. Dussmann GmbH Standort: P. Dussmann GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.689472100,48.256567100 ]
+    },
+    "properties": {
+    "Titel":"Fritz Egger GmbH & Co. OG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.848587400,46.832395900 ]
+    },
+    "properties": {
+    "Titel":"Landeskrankenanstalten Betriebsgesellschaft KABEG - Landeskrankenhaus Wolfsberg Standort: Landeskrankenhaus Wolfsberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.382316300,48.222200000 ]
+    },
+    "properties": {
+    "Titel":"Simacek Facility Management Group GmbH Standort: Simacek Facility Management Group GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.614154500,48.179091000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt St. Pölten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.039672100,48.328725800 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Tulln"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.594172600,48.014100000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Lilienfeld"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.842558100,48.132719200 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Amstetten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.353150700,48.226807600 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Melk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.083518000,48.150083000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Ybbs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.156850500,48.012930700 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Scheibbs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.527263600,48.197022500 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt St. Valentin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.783587900,48.016939810 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Bruck an der Leitha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.310573300,48.108145300 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Brunn am Gebirge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.792959900,47.948230000 ]
+    },
+    "properties": {
+    "Titel":"ÖAMTC Stützpunkt Waidhofen an der Ybbs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.622147300,48.195101200 ]
+    },
+    "properties": {
+    "Titel":"Gugler GmbH Standort: Standort St. Pölten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.979518900,48.400733100 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Absdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.376925400,48.155866300 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Christus am Wienerberg - Gemeinde Zum heiligen Franz von Sales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.415907300,48.291758700 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Cyrill und Method"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.283041200,48.147453600 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Erlöserkirche"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.239239100,47.742337500 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Lanzenkirchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.211298300,48.386112300 ]
+    },
+    "properties": {
+    "Titel":"Verein zur Förderung kirchlicher Umweltarbeit Standort: Pfarre Stockerau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.020179900,47.415408400 ]
+    },
+    "properties": {
+    "Titel":"Pfarre Dechantskirchen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.978955900,48.135404600 ]
+    },
+    "properties": {
+    "Titel":"R&L Entsorgungsservice GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.546010400,46.825520300 ]
+    },
+    "properties": {
+    "Titel":"Wasserverband Millstätter See Standort: Verbandsabwasserreinigungsanlage (VARA)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.527399900,46.817951800 ]
+    },
+    "properties": {
+    "Titel":"Wasserverband Millstätter See Standort: Wasserverband Millstätter See"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.654407800,48.663070300 ]
+    },
+    "properties": {
+    "Titel":"Bezirkshauptmannschaften des Landes Niederösterreich Standort: Bezirkshauptmannschaft Horn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.334789900,48.225818600 ]
+    },
+    "properties": {
+    "Titel":"Bezirkshauptmannschaften des Landes Niederösterreich Standort: Bezirkshauptmannschaft Melk"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.571925500,48.570602900 ]
+    },
+    "properties": {
+    "Titel":"Bezirkshauptmannschaften des Landes Niederösterreich Standort: Bezirkshauptmannschaft Mistelbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.628692800,48.206156000 ]
+    },
+    "properties": {
+    "Titel":"Bezirkshauptmannschaften des Landes Niederösterreich Standort: Bezirkshauptmannschaft St. Pölten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.629672200,47.309045200 ]
+    },
+    "properties": {
+    "Titel":"OMICRON electronics GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.421267200,48.475064700 ]
+    },
+    "properties": {
+    "Titel":"Bildungshaus Schloss Großrußbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.279694300,48.190822100 ]
+    },
+    "properties": {
+    "Titel":"Bundesinnung der österreichischen Rauchfangkehrer Standort: EFG Umwelt- und Klimawerkstatt GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372168200,48.218768800 ]
+    },
+    "properties": {
+    "Titel":"VBV Vorsorgekasse AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.259704500,48.309869900 ]
+    },
+    "properties": {
+    "Titel":"FM-Plus Facility Management GmbH für Wissenschaft + Kultur in NOE Standort: FM-Plus Facility Management GmbH für Wissenschaft + Kultur in NOE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.068522700,48.320738000 ]
+    },
+    "properties": {
+    "Titel":"FM-Plus Facility Management GmbH für Wissenschaft + Kultur in NOE Standort: FM-Plus Facility Management GmbH für Wissenschaft + Kultur in NOE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.277367000,48.811400400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Astrid Proksch-Walter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.292025400,48.373813200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Binder KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.890126600,48.700809600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Christoph Cepak"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.251167600,47.892921900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: De Stefani KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.496225100,48.587067800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: DI (FH) Adalbert Svec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.796596400,47.708306300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Fa. Stangl Inh. Markus Waschenegger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.247660200,47.823139400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Gertrude Major OG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.746048900,48.041870100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Helmut Jandl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.736689500,48.467331500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Helmut Oismüller"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.251824200,47.811540100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Horst-Peter Pölzgutter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.893968100,47.874888200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Horst-Peter Pölzgutter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.089476500,47.551589700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Ing. Hans Diettrich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.342122200,48.347353000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Josef Puch KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.107975400,47.944847300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Mahler-Hutter KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.523443000,48.175296900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Mario Johannes Lechner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.808076000,48.258061100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Markus Nentwich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.374425200,48.300597600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: MOLNAR Rauchfangkehrerbetriebs KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.771132400,47.957763400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Peter Engelbrechtsmüller"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.661682500,47.995426300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Peter Kremsner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.387965700,47.907186300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Peter Kremsner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.161543000,48.225203700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Roswitha Bichler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.297744200,47.504133800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Stephan Pichler-Holzer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.073998600,48.791647300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Thomas Semler KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.985955300,47.608756900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Ulrike Tauchner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.375202400,47.873975500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Walter Kozich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.162000700,47.936874300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Niederösterreich (inkl. Landesinnung) Standort: Walter Weber KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.286992300,48.244441100 ]
+    },
+    "properties": {
+    "Titel":"Neue Raumpflege GmbH Standort: Neue Raumpflege GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.444052700,47.033287200 ]
+    },
+    "properties": {
+    "Titel":"Neue Raumpflege GmbH Standort: Neue Raumpflege GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.338047600,48.140025800 ]
+    },
+    "properties": {
+    "Titel":"Austria Card GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.452055700,48.216762000 ]
+    },
+    "properties": {
+    "Titel":"OSI Food Solutions Austria GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.349958500,47.134810500 ]
+    },
+    "properties": {
+    "Titel":"Pfarre Gratkorn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.308955200,46.635640800 ]
+    },
+    "properties": {
+    "Titel":"Landeskrankenanstalten-Betriebsgesellschaft KABEG - Klinikum Klagenfurt am Wörthersee   Standort: Klinikum Klagenfurt am Wörthersee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.370807800,46.629235600 ]
+    },
+    "properties": {
+    "Titel":"Landeskrankenanstalten-Betriebsgesellschaft KABEG - Gailtal-Klinik Standort: Gailtal-Klinik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.004480200,46.679837400 ]
+    },
+    "properties": {
+    "Titel":"Landeskrankenanstalten-Betriebsgesellschaft KABEG - Landeskrankenhaus Laas Standort: Landeskrankenhaus Laas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.321925000,48.302917900 ]
+    },
+    "properties": {
+    "Titel":"STRABAG Property and Facility Services GmbH Standort: STRABAG Property and Facility Services GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.427277700,47.057622200 ]
+    },
+    "properties": {
+    "Titel":"STRABAG Property and Facility Services GmbH Standort: STRABAG Property and Facility Services GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.614849200,48.200045300 ]
+    },
+    "properties": {
+    "Titel":"STRABAG Property and Facility Services GmbH Standort: STRABAG Property and Facility Services GmbH "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.440652800,47.071415200 ]
+    },
+    "properties": {
+    "Titel":"Kaspar Harnisch GmbH Standort: Schubertkino und Kaspar Harnisch Farbenfachgeschäft und Künstlerbedarf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.471873300,48.265500000 ]
+    },
+    "properties": {
+    "Titel":"Bombardier Transportation Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.313937600,48.173607600 ]
+    },
+    "properties": {
+    "Titel":"Unitcargo Speditionsges.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.291620000,48.303684200 ]
+    },
+    "properties": {
+    "Titel":"Katholische Privat-Universität Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.332966300,48.185125300 ]
+    },
+    "properties": {
+    "Titel":"Unitplan Haustechnikplanungs GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.166689810,47.283347200 ]
+    },
+    "properties": {
+    "Titel":"Elektro Berchtold GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.441948400,47.284545700 ]
+    },
+    "properties": {
+    "Titel":"Stipits Entsorgung GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.332828100,48.198013900 ]
+    },
+    "properties": {
+    "Titel":"JANUS Gruppe Ges.m.b.H. Standort: Einfach Anders GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.339591900,48.291885000 ]
+    },
+    "properties": {
+    "Titel":"Hausbetreuung Attensam GmbH Standort: Attensam Klosterneuburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.616997400,47.565312300 ]
+    },
+    "properties": {
+    "Titel":"Hydrosnow GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.285769100,48.298347800 ]
+    },
+    "properties": {
+    "Titel":"Caritas für Menschen in Not"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.493452500,47.077030300 ]
+    },
+    "properties": {
+    "Titel":"Pfarre Graz - Ragnitz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.282710500,46.612017000 ]
+    },
+    "properties": {
+    "Titel":"Pfarre St. Josef Siebenhügel - Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.381706000,46.636976000 ]
+    },
+    "properties": {
+    "Titel":"KAB Kärntner Abfallbewirtschaftung GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.283183900,48.177622400 ]
+    },
+    "properties": {
+    "Titel":"Pfarre Lainz-Speising"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.492410800,47.106097400 ]
+    },
+    "properties": {
+    "Titel":"Bildungshaus Mariatrost"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.375437200,48.282589600 ]
+    },
+    "properties": {
+    "Titel":"REMONDIS Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.450059500,47.062192200 ]
+    },
+    "properties": {
+    "Titel":"Akkord Klagenfurt & Graz Dienstleistungs-Ges.m.b.H. Standort: Akkord Graz Dienstleistungs-Ges.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.300078300,46.619218000 ]
+    },
+    "properties": {
+    "Titel":"Akkord Klagenfurt & Graz Dienstleistungs-Ges.m.b.H. Standort: Akkord Klagenfurt Dienstleistungs-Ges.m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.398646500,48.222779300 ]
+    },
+    "properties": {
+    "Titel":"A1 Telekom Austria AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.350368500,48.173515500 ]
+    },
+    "properties": {
+    "Titel":"Wiener Krankenanstaltenverbund, Sozialmedizinisches Zentrum Süd - Kaiser Franz Josef Spital mit Gottfried von Preyer´schem Kinderspital"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.350368500,48.173515500 ]
+    },
+    "properties": {
+    "Titel":"Sozialmedizinisches Zentrum Süd - Geriatriezentrum Favoriten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.295283100,48.039562600 ]
+    },
+    "properties": {
+    "Titel":"Klinger Fluid Control GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.086753900,47.773006100 ]
+    },
+    "properties": {
+    "Titel":"Schulverein St. Ursula in Österreich Standort: Schulverein St. Ursula in Österreich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.305082500,46.625074500 ]
+    },
+    "properties": {
+    "Titel":"Schulverein St. Ursula in Österreich Standort: Schulverein St. Ursula Österreich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.467683500,48.266952000 ]
+    },
+    "properties": {
+    "Titel":"Otto Wirl GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.515792600,48.253752500 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.182358000,48.240771000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.614736000,47.979562000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.274920400,48.245127100 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.613186100,48.200333200 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.446225700,48.219650700 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.508986700,48.306281900 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.737762800,48.024712500 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.049713400,48.160206500 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.711987700,47.098651400 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.306302600,48.310829800 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.586792000,48.014233600 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.952134400,47.551786000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.061249600,48.247826200 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.818686000,46.564833700 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.076030800,48.170316300 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.228884300,47.265501500 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.453111800,48.057837300 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.454667900,48.062938400 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.453799100,48.178985600 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.362917500,46.853687000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.216787000,47.816787000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.453481700,48.061236800 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.032918200,48.388918000 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.622373800,47.681949900 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.467635600,47.566480500 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.385912800,47.459194300 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.863659500,47.239332700 ]
+    },
+    "properties": {
+    "Titel":"Energie AG Oberösterreich Umwelt Service GmbH Standort: AVE Österreich GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.342643000,48.215500100 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kinderclub"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.364318900,48.175178900 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Ali Baba\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.375416800,48.215333200 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Donauhof\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.310183100,48.139215700 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Kinderträume\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.285078100,48.189828300 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Kuratorium\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.362657600,48.225613400 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Luna\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.344738100,48.210853100 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Mary Poppins\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.318921600,48.167336000 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Meidlinger Sonnenb.\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.381009500,48.234817300 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Mini Mundus\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.304755900,48.250772900 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Schmetterling\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.298656600,48.184658300 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Spiel- & Lernstube\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.340692800,48.186668900 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Spielwiese\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.320106000,48.223382200 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Teddybär 1\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.317877800,48.223708900 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Teddybär 2\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.349762100,48.199321300 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Villa Kunterbunt\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.375823900,48.241645400 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten \"Vindobini\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.362330800,48.222987800 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten Alsergrund"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.366782000,48.200134000 ]
+    },
+    "properties": {
+    "Titel":"Vindobini (Kinderbetreuungsverein) Standort: Kindergarten Nußdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.416707000,47.083439800 ]
+    },
+    "properties": {
+    "Titel":"BULS chem & more Handels GmbH Standort: Filiale Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.276117600,48.253825100 ]
+    },
+    "properties": {
+    "Titel":"BULS chem & more Handels GmbH Standort: Filiale Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.250000000,48.100231400 ]
+    },
+    "properties": {
+    "Titel":"BULS chem & more Handels GmbH Standort: Filiale Wien (Zentrallager)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.016875000,48.150189800 ]
+    },
+    "properties": {
+    "Titel":"Wels Strom GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.744108100,48.400237100 ]
+    },
+    "properties": {
+    "Titel":"Biogena Naturprodukte GmbH & Co KG / Biogena Vital Basics GmbH Standort: Biogena Logistikzentrum Natternbach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.036187900,47.797392700 ]
+    },
+    "properties": {
+    "Titel":"Biogena Naturprodukte GmbH & Co KG / Biogena Vital Basics GmbH Standort: Biogena NL u. Shop Salzbzurg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.342174000,48.194345700 ]
+    },
+    "properties": {
+    "Titel":"Biogena Naturprodukte GmbH & Co KG / Biogena Vital Basics GmbH Standort: Biogena NL u. Shop Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.445853200,47.064813300 ]
+    },
+    "properties": {
+    "Titel":"Biogena Naturprodukte GmbH & Co KG / Biogena Vital Basics GmbH Standort: Biogena Shop Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.033627600,47.797252700 ]
+    },
+    "properties": {
+    "Titel":"Biogena Naturprodukte GmbH & Co KG / Biogena Vital Basics GmbH Standort: Biogena u. BVB Zentrale Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.255146100,48.131631000 ]
+    },
+    "properties": {
+    "Titel":"Schulverein Institut Sta. Christiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.441151400,47.066574600 ]
+    },
+    "properties": {
+    "Titel":"ROADSTARS GmbH für Verkehr und Mobilität"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.242408600,47.540406000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Andrea Frais"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.087804800,47.375530400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Astrid Hollnagl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.393858600,46.974094100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Bernd Huber"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.440546500,47.018330500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Bernd Jaklitsch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.469730000,46.968788400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Christa Gumhold-Stiplovsek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.547630200,46.787298500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Christian Plesar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.752361600,47.189823600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: DI Herwig Habian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.175468200,47.035739900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Egon Wenzl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.239166667,47.567500000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Elisabeth Rössler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.012348900,46.940727900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Erich Niederl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.636537400,47.220447900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Eva Schlögl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.545597000,47.544724800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Gerald Fuchsjäger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.834444444,47.301111111 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Günther Stalzer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.989554600,47.459583700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Harald Gruber"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.099304000,47.488761100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Harald Haidler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.242408600,47.540406000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Helga Rappold KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.025936800,47.333885600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Hermann Hüttinger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.271747800,46.894266800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Ing. Erich A. Herbst"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.085931600,47.043203300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Ing. FLADERER Rauchfangkehrer KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.781623000,46.708261700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Ing. FLADERER Rauchfangkehrer KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.541046600,46.785109800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Ing. Markus Dielacher MSc."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.326097100,47.270567900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Johann Sorian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.668425200,47.193153200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Josef Puch KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.402776200,47.018303000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Jürgen Happich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.892142500,46.950336500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Karl Brandl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.616856000,46.716777000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Karl Grill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.979254900,47.281234100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Mag. Helge Kump e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.814388900,47.211649500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Maria Klapf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.539286600,46.772844700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Markus Breg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.481604500,47.082429700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Markus Breg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.299891200,47.067711700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Markus Pirer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.901516300,47.542246200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Michael Haberl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.239166667,47.567500000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Michael Lammer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.501756600,47.145393700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Peter Fasching"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.445523700,47.503864200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Richard Schwarz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.319101200,47.453570200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Richard Schwarz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.265902400,47.418630000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Robert Großschädl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.511259500,47.249739000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Robert Kump"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.688538800,47.390295100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Roland Schwaiger KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.207845300,47.414430100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Rudolf Wallner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.431273500,47.068462200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Siegfried Klinger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.619188200,47.687966100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Sieglinde Haas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.201398700,46.756685900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Sonja Krainz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.487648700,47.252042300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Ulrike Puch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.419444444,47.099166667 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Verein Rauchfangkehrer Steiermark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.238055556,46.685277778 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Werner Ehrenhöfler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.167131900,47.109542700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Wolfgang Diechler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.392014100,47.054568900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Steiermark (inkl. Landesinnung) Standort: Wolfgang Rössler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.025571000,48.242529500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Andreas Obojes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.339208500,47.660404500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Edwin A. Skale Rauchfangkehrermeister & Brandschutztechnik"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.437659500,48.293949900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Ihr Rauchfangkehrer EVW KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.288450100,48.307569100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Ing. Gerhard Hofer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.202734700,48.249061100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Janski, Inh. Valerie Friedl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.038710400,48.259430400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Lackner Rauchfangkehrer KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.423047700,48.043649400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Peter Mayr"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.268335300,48.465818700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Reisenberger KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.301880600,48.325360700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: Roland Eckerstorfer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.763041200,47.894705800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Oberösterreich (inkl. Landesinnung) Standort: WTG OÖ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.668786200,47.801688000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Andrea Frank"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.057043200,48.091922300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Anna Leban"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.557562500,47.536821000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Anton A. Zolles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.228528000,47.261930600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Anton A. Zolles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.458720700,47.765937600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: DI (FH) Alexander Pehm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.440365500,47.297165300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Dieter Unger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.122777778,47.147500000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Helmuth Ellmeier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.417824500,47.407687700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Herbert Baumrock (LIM)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.296944444,47.796111111 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Roland Grieer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.553555300,47.851209000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Burgenland (inkl. Landesinnung) Standort: Roland Oswald"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.101462600,47.967189700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Alexander Furthner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.097868700,47.170534500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Alexander Lackner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.224190700,47.943740200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Christian Manseer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.158068800,47.630667300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Christoph Kasberger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.456254400,47.383643200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Daniela Brüggler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.965534900,47.293045200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Florian Buzanich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.734777600,47.434928800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Gernot Salzmann"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.424237700,47.375200700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Heinz Burmann KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.078128400,47.773145000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Horst Feichtner KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.271583500,47.250249600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Johann Enzinger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.173138100,47.325584600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Maximilian Buzanich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.101151900,47.967201200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Michael Furthner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.019679500,47.817924800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Michael Leopolder"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.800074000,47.283381000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Salzburg (inkl. Landesinnung) Standort: Peter Christian Rainer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.637114300,48.242404100 ]
+    },
+    "properties": {
+    "Titel":"Synthesa Chemie Gesellschaft m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.207500000,47.864166667 ]
+    },
+    "properties": {
+    "Titel":"WNSKS, Abteilung Abfallwirtschaft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.923711200,46.991771000 ]
+    },
+    "properties": {
+    "Titel":"ZOTTER Schokoladen Manufaktur GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.069397400,48.559904300 ]
+    },
+    "properties": {
+    "Titel":"Höhere technische Bundeslehranstalt Hollabrunn und Private HTL für Lebensmitteltechnologie - Lebensmittelsicherheit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.207500000,47.864166667 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.358611111,48.186944444 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373818900,48.208174300 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.307609200,46.622089500 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.010288800,48.151112000 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.043452400,47.811430000 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.434176000,47.266017000 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.194453800,48.132949600 ]
+    },
+    "properties": {
+    "Titel":"Marktgemeinde Breitenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.036505100,48.328494100 ]
+    },
+    "properties": {
+    "Titel":"DIE GARTEN TULLN GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.848380800,46.785686100 ]
+    },
+    "properties": {
+    "Titel":"PMS Elektro- und Automationstechnik GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.348418800,48.344791500 ]
+    },
+    "properties": {
+    "Titel":"Franz BLAHA, Sitz- und Büromöbel Industrie GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.290360900,46.641264300 ]
+    },
+    "properties": {
+    "Titel":"EY Austria Standort: EY Austria Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.301196300,48.297327400 ]
+    },
+    "properties": {
+    "Titel":"EY Austria Standort: EY Austria Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.055968100,47.810016100 ]
+    },
+    "properties": {
+    "Titel":"EY Austria Standort: EY Austria Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.815187700,47.155865800 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Bludenz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.412346000,47.055046400 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.424733000,47.267892800 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Innsbruck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.287269300,46.641287600 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.583152500,48.402113400 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Krems"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.981638000,47.466507600 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Kundl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.309085700,48.310320300 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.794072600,47.959705600 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Ohlsdorf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.633507800,48.201543800 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS St. Pölten"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.990923500,47.811644000 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Wals/Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.044447800,48.139358500 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Wels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.405410200,48.272358300 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.256084100,47.839968000 ]
+    },
+    "properties": {
+    "Titel":"ISS Facility Services GmbH; ISS Austria Holding GmbH; ISS Hotel, SPA & Gastro Services GmbH Standort: ISS Wr. Neustadt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.139157200,47.609002000 ]
+    },
+    "properties": {
+    "Titel":"Struber Entsorgung GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.424056900,47.099775500 ]
+    },
+    "properties": {
+    "Titel":"Dr. Schilhan Gebäudereinigung GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343352500,48.340883000 ]
+    },
+    "properties": {
+    "Titel":"EVN Kraftwerk Korneuburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.456092600,48.233043300 ]
+    },
+    "properties": {
+    "Titel":"AVR GmbH Standort: AVR Tankwagenreinigung GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.775347100,47.295664000 ]
+    },
+    "properties": {
+    "Titel":"Schmittenhöhebahn AG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.391786400,48.209514000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: A & P Scheriau GmbH NFG Petra Meixner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.379249100,48.216393600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Ainedter & Co e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372113700,48.230903400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Alexandra Hotzy-Babula"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.453635500,48.228635700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Alfred Rappelsberger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.318055556,48.215277778 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Alice Hohenberger-Essl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.365391600,48.222938400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Anna-Theres Stern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.310245500,48.223599700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Christian Leiner e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.333032600,48.186598700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Christian Quester"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.382569000,48.202508900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Claudia Klucsarits e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.369160900,48.211739900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: DI Rudolf Quester"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.312373300,48.197695000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Eduard Frühschütz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.488393700,48.245829600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Erwin Prosl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.359742300,48.219239800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Genossenschaft EWG der Wiener Rauchfangkehrer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.370191800,48.228791400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Georg Prause"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343981800,48.214634400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Gerd-Dieter Stern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.365391600,48.222938400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Gerd-Dieter Stern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372697400,48.173097200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Gerhard Pichler"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373143100,48.212725900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Gerhard Semotan Nfg. d. Josef Summerauer GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.286591200,48.132501400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Hannes Szalay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.348853700,48.253523000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Harald Weidhofer & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.323164500,48.195576600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Heinz Cornelius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.378550500,48.218613600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Heinz Cornelius Inh. Roland Cornelius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.297823100,48.146336500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Helmut Klucsarits "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.366297800,48.171022000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Josef Rejmar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.318111000,48.215279500 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Karin Hohenberger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.394444444,48.200000000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: KommR Erwin Zimmermann"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.315873600,48.210544800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Martin Bandera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.303881300,48.169359900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Martin Dorn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373818900,48.208174300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Martin Hofstetter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.330704800,48.229765000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Michael Dvoulety"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.344678200,48.209917900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Michael Walter e.U."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.286591200,48.132501400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Peter Gehrken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.376769300,48.230694800 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Peter Gehrken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.365471100,48.184006600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Peter Hönig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.312264300,48.223975000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Rauchfangkehrerunternehmen G. Kavalir, Inh. Gerhard Urbanides"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343990600,48.196993000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Richard Pollak"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373611111,48.208055556 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Richard Pollak"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363121800,48.220031300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Richard Wolf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.345931600,48.227729600 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Richard Wolf "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.416246500,48.172469100 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Schäffler & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.337354300,48.219417300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Stefan Stejrits"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.363646200,48.252144400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Thomas Gollner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.347113100,48.225079900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Thomas Renner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.351760200,48.253705000 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Thomas Stiasny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373818900,48.208174300 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Thomas Stiasny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.331353400,48.225907700 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Udo Perchtold"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.390278200,48.193249200 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Wolfgang Hotzy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372113700,48.230903400 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Wolfgang Hotzy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.326266200,48.183221900 ]
+    },
+    "properties": {
+    "Titel":"Zertifizierte Rauchfangkehrerbetriebe Wien (incl. Landesinnung) Standort: Wolfgang Mayer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.284011100,48.186228600 ]
+    },
+    "properties": {
+    "Titel":"Don Bosco Haus - Zentrum für Jugend- und Erwachsenenbildung"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.844986700,48.026337700 ]
+    },
+    "properties": {
+    "Titel":"Neuhauser Gesellschaft m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.978405400,46.871999500 ]
+    },
+    "properties": {
+    "Titel":"Technisches Büro Ing. Gerhard Repnik Standort: Nahwärme Hochrindl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.561944444,46.936666667 ]
+    },
+    "properties": {
+    "Titel":"Technisches Büro Ing. Gerhard Repnik Standort: Nahwärme Knappenberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.174496000,48.714621900 ]
+    },
+    "properties": {
+    "Titel":"Technisches Büro Ing. Gerhard Repnik Standort: Nahwärme Seefeld-Kadolz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.257780500,46.685246300 ]
+    },
+    "properties": {
+    "Titel":"Technisches Büro Ing. Gerhard Repnik Standort: Nahwärme Weißbriach"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.051490100,47.809029500 ]
+    },
+    "properties": {
+    "Titel":"ÖWD Cleaning Services GmbH & Co KG"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.462449200,48.256296600 ]
+    },
+    "properties": {
+    "Titel":"Blitz Blank Reinigung - Dienstleistungsunternehmen GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.747587600,48.201180800 ]
+    },
+    "properties": {
+    "Titel":"Landwirtschaftliche Bundesversuchswirtschaften GmbH Standort: Betriebsstätte Fuchsenbigl"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.720474400,48.009000300 ]
+    },
+    "properties": {
+    "Titel":"Landwirtschaftliche Bundesversuchswirtschaften GmbH Standort: Betriebsstätte Königshof"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.055000000,47.809444444 ]
+    },
+    "properties": {
+    "Titel":"IFMS Infrastrukturelles Facility Management Service GmbH Standort: Büroraum Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.399411900,47.005878600 ]
+    },
+    "properties": {
+    "Titel":"IFMS Infrastrukturelles Facility Management Service GmbH Standort: Niederlassung Steiermark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.426201800,48.088727700 ]
+    },
+    "properties": {
+    "Titel":"Zvachula Gesellschaft m.b.H."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.348222800,48.199735000 ]
+    },
+    "properties": {
+    "Titel":"hellrein Reinigungsdienst GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.341139800,48.195586800 ]
+    },
+    "properties": {
+    "Titel":"Altstoff Recycling Austria AG, ERA Elektro Recycling Austria GmbH, ARES Advanced Recycling Solutions GmbH, ARAplus GmbH Standort: ARAplus GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.341139800,48.195586800 ]
+    },
+    "properties": {
+    "Titel":"Altstoff Recycling Austria AG, ERA Elektro Recycling Austria GmbH, ARES Advanced Recycling Solutions GmbH, ARAplus GmbH Standort: ARES Advanced Recycling Solutions GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.341139800,48.195586800 ]
+    },
+    "properties": {
+    "Titel":"Altstoff Recycling Austria AG, ERA Elektro Recycling Austria GmbH, ARES Advanced Recycling Solutions GmbH, ARAplus GmbH Standort: ERA Elektro Recycling Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.085924000,46.721487300 ]
+    },
+    "properties": {
+    "Titel":"Haslinger Stahlbau GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.376264000,48.164613400 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.516186600,46.791487500 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.377199300,48.253550000 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.607210400,47.269623900 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.421730800,47.116716700 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.227579900,47.948437100 ]
+    },
+    "properties": {
+    "Titel":"hollu Systemhygiene GmbH Standort: hollu Systemhygiene GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.233511600,47.966537800 ]
+    },
+    "properties": {
+    "Titel":"Flughafen Wien Aktiengesellschaft Standort: Flugplatz Vöslau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.353417000,46.769090300 ]
+    },
+    "properties": {
+    "Titel":"A.ö. Krankenhaus der Barmherzigen Brüder St.Veit/Glan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.399319400,47.266058100 ]
+    },
+    "properties": {
+    "Titel":"Jeld-Wen Türen GmbH Standort: Produktionsstätte Pöckstein"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.740223400,47.500255100 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Bregenz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.477793200,47.045053000 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.283672100,48.299506700 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Innsbruck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.287269300,46.641287600 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.283672100,48.299506700 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Linz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.006561000,47.816419000 ]
+    },
+    "properties": {
+    "Titel":"Agrarmarkt Austria  Standort: Außenstelle Salzburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.749398900,47.057630700 ]
+    },
+    "properties": {
+    "Titel":"Müllex-Umwelt-Säuberungs GmbH Standort: Standort St. Margarethen an der Raab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.408763400,48.260121000 ]
+    },
+    "properties": {
+    "Titel":"Roche Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.317441700,47.079083300 ]
+    },
+    "properties": {
+    "Titel":"Parador Parkettwerke GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.395185300,48.194412700 ]
+    },
+    "properties": {
+    "Titel":"Bernhard AV GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.264943900,46.616712400 ]
+    },
+    "properties": {
+    "Titel":"Alpen-Adria-Universität Klagenfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.053790300,47.794799100 ]
+    },
+    "properties": {
+    "Titel":"Universität Salzburg Standort: Unipark Nonntal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.032947900,47.744324900 ]
+    },
+    "properties": {
+    "Titel":"BIO-NAHRUNGSMITTEL Produktions- und Handels GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.233333000,48.100000000 ]
+    },
+    "properties": {
+    "Titel":"AMiP - Industrial Engineering GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.377212800,48.210523900 ]
+    },
+    "properties": {
+    "Titel":"die Berater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.400134259,48.200236111 ]
+    },
+    "properties": {
+    "Titel":"WU Wirtschaftsuniversität Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.025116200,47.796879900 ]
+    },
+    "properties": {
+    "Titel":"G&P Facility Service GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.449611900,47.078776100 ]
+    },
+    "properties": {
+    "Titel":"Karl-Franzens-Universität Graz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.383304400,48.195605800 ]
+    },
+    "properties": {
+    "Titel":"Europäisches Patentamt Wien"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.153716000,47.935209000 ]
+    },
+    "properties": {
+    "Titel":"Schaeffler Austria GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.608435400,47.269166300 ]
+    },
+    "properties": {
+    "Titel":"Wiegel Feldkirch Feuerverzinken GmbH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.798967800,47.991429700 ]
+    },
+    "properties": {
+    "Titel":"UPM Kymmene Corporation Standort: UPM-Kymmene Austria GmbH"
+    }
+  }
+]
+};
